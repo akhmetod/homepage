@@ -68,13 +68,13 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "akhmetod@gmail.com"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "12207 Berlin, Germany"
   office_hours = """
   Monday 10:00 to 13:00\\
   Wednesday 09:00 to 10:00\\
   Otherwise email to book an appointment
   """
-  phone = "888 888 88 88"
+#  phone = "888 888 88 88"
   skype = "akhmetod"
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -111,13 +111,14 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+#  color_theme = "default"
+  color_theme = "ocean"
   # Enable users to switch between day and night mode?
   day_night = true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
