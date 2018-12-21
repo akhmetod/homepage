@@ -10,25 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    # "Artificial Intelligence",
+    # "Computational Linguistics",
+    # "Information Retrieval"
+    "Industrial Organization", 
+    "Microeconomic Theory", 
+    "Econometrics",
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MA Economy, State and Society (Economics and Business track)"
+  institution = "Charles University in Prague"
+  year = 2010
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MA Economy, State and Society (Economics and Business track)"
+  institution = "University College London"
   year = 2009
 
 [[education.courses]]
   course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  institution = "Moscow State Institute of International Relations / MGIMO University"
   year = 2008
  
 +++
