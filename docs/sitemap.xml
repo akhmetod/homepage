@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>/homepage/tutorial/example/</loc>
+      <loc>https://akhmetod.github.io/homepage/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>/homepage/tutorial/</loc>
+      <loc>https://akhmetod.github.io/homepage/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -20,15 +20,7 @@
     
     <url>
     
-      <loc>/homepage/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/homepage/talk/example/</loc>
+      <loc>https://akhmetod.github.io/homepage/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -36,7 +28,7 @@
     
     <url>
     
-      <loc>/homepage/post/</loc>
+      <loc>https://akhmetod.github.io/homepage/post/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -44,7 +36,7 @@
     
     <url>
     
-      <loc>/homepage/publication/</loc>
+      <loc>https://akhmetod.github.io/homepage/publication/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -52,7 +44,7 @@
     
     <url>
     
-      <loc>/homepage/talk/</loc>
+      <loc>https://akhmetod.github.io/homepage/talk/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -60,7 +52,7 @@
     
     <url>
     
-      <loc>/homepage/project/external-project/</loc>
+      <loc>https://akhmetod.github.io/homepage/project/external-project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -68,7 +60,7 @@
     
     <url>
     
-      <loc>/homepage/project/internal-project/</loc>
+      <loc>https://akhmetod.github.io/homepage/project/internal-project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -76,7 +68,7 @@
     
     <url>
     
-      <loc>/homepage/post/getting-started/</loc>
+      <loc>https://akhmetod.github.io/homepage/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
     </url>
     
@@ -84,7 +76,7 @@
     
     <url>
     
-      <loc>/homepage/publication/person-re-id/</loc>
+      <loc>https://akhmetod.github.io/homepage/publication/person-re-id/</loc>
       <lastmod>2015-09-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -92,7 +84,7 @@
     
     <url>
     
-      <loc>/homepage/post/2015-07-23-r-rmarkdown/</loc>
+      <loc>https://akhmetod.github.io/homepage/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -100,7 +92,7 @@
     
     <url>
     
-      <loc>/homepage/publication/clothing-search/</loc>
+      <loc>https://akhmetod.github.io/homepage/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -108,7 +100,7 @@
     
     <url>
     
-      <loc>/homepage/publication_types/1/</loc>
+      <loc>https://akhmetod.github.io/homepage/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -117,7 +109,7 @@
     
     <url>
     
-      <loc>/homepage/publication_types/2/</loc>
+      <loc>https://akhmetod.github.io/homepage/publication_types/2/</loc>
       <lastmod>2015-09-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -126,7 +118,7 @@
     
     <url>
     
-      <loc>/homepage/tags/academic/</loc>
+      <loc>https://akhmetod.github.io/homepage/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -135,7 +127,7 @@
     
     <url>
     
-      <loc>/homepage/categories/</loc>
+      <loc>https://akhmetod.github.io/homepage/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -143,7 +135,7 @@
     
     <url>
     
-      <loc>/homepage/tags/deep-learning/</loc>
+      <loc>https://akhmetod.github.io/homepage/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -152,7 +144,7 @@
     
     <url>
     
-      <loc>/homepage/tags/demo/</loc>
+      <loc>https://akhmetod.github.io/homepage/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -161,7 +153,7 @@
     
     <url>
     
-      <loc>/homepage/</loc>
+      <loc>https://akhmetod.github.io/homepage/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -170,7 +162,7 @@
     
     <url>
     
-      <loc>/homepage/project/</loc>
+      <loc>https://akhmetod.github.io/homepage/project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -179,7 +171,7 @@
     
     <url>
     
-      <loc>/homepage/publication_types/</loc>
+      <loc>https://akhmetod.github.io/homepage/publication_types/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -188,7 +180,7 @@
     
     <url>
     
-      <loc>/homepage/categories/r/</loc>
+      <loc>https://akhmetod.github.io/homepage/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -197,7 +189,7 @@
     
     <url>
     
-      <loc>/homepage/tags/r-markdown/</loc>
+      <loc>https://akhmetod.github.io/homepage/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -206,7 +198,7 @@
     
     <url>
     
-      <loc>/homepage/slides/</loc>
+      <loc>https://akhmetod.github.io/homepage/slides/</loc>
       <priority>0</priority>
     </url>
     
@@ -214,14 +206,14 @@
     
     <url>
     
-      <loc>/homepage/slides/example-slides/</loc>
+      <loc>https://akhmetod.github.io/homepage/slides/example-slides/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/homepage/tags/</loc>
+      <loc>https://akhmetod.github.io/homepage/tags/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -230,7 +222,7 @@
     
     <url>
     
-      <loc>/homepage/tags/plot/</loc>
+      <loc>https://akhmetod.github.io/homepage/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -239,7 +231,7 @@
     
     <url>
     
-      <loc>/homepage/tags/regression/</loc>
+      <loc>https://akhmetod.github.io/homepage/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
